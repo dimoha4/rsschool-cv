@@ -1,6 +1,6 @@
 ### Dzmitry Talianin
 ### Contact:
-> email: [dimoha4@mail.ru](dimoha4@mail.ru)
+> email: <dimoha4@mail.ru>
 > telegram: [telegram](https://t.me/dimoha4)
 ### About me:
 I loved math and computer science at school and wanted to become a programmer. But due to the circumstances, he left to study in a different direction. And now I want to do my best to change my life and start programming.
