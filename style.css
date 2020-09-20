@@ -1,0 +1,13 @@
+body {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+header {
+    text-align: left;
+}
+
+
+.logo {
+    max-width: 15%;
+}
